@@ -1,5 +1,6 @@
 # SimpleSnakeGame
 This is a simple Snake game made with python 3.8.5
+
 First project I ever made with python
 
 # Game information
