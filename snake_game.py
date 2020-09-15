@@ -159,7 +159,7 @@ def game():
         if x == food_x and y == food_y:
             food_x = return_range(20 * round(random.randrange(0, dis_height) / 20), 600)
             food_y = return_range(20 * round(random.randrange(0, dis_height) / 20), 400)
-            snake_size += 450
+            snake_size += 1
             if snake_size >= 450:
                 win = True
 
